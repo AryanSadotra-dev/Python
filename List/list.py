@@ -1,5 +1,5 @@
 
-"""
+
 I.>
 # what is list 
 -> A list is a data structure used to store multiple values inside a single variable in a specific order.
@@ -750,5 +750,6 @@ C. Stack vs Queue (Quick Decision Guide)
             Scheduling
             Fair processing
             Waiting-line simulation
-"""
+
+
 
